@@ -1,1 +1,1 @@
-# new-day-planner
+# day-planner-jquery
